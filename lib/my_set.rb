@@ -23,4 +23,8 @@ class MySet
     def size
         @hash.size
     end
+
+    def self.[]
+        initialize(value)
+    end
 end
