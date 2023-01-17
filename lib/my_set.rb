@@ -1,1 +1,4 @@
-# your code here
+class MySet
+    def initialize
+    end
+end
